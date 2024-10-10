@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\exercise-csharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D86A866-5218-447B-8C99-CF727DB0B3D0}|exercise5\\exercise5.csproj|d:\\exercise-csharp\\exercise5\\ex5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D86A866-5218-447B-8C99-CF727DB0B3D0}|exercise5\\exercise5.csproj|solutionrelative:exercise5\\ex5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1130C7-5147-4E54-B0BF-E217C3FD1E39}|exercise4\\exercise4.csproj|d:\\exercise-csharp\\exercise4\\ex4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1130C7-5147-4E54-B0BF-E217C3FD1E39}|exercise4\\exercise4.csproj|solutionrelative:exercise4\\ex4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94A99A60-C3B1-4108-9F7B-938D3EE9E7CF}|exercise1\\exercise1.csproj|d:\\exercise-csharp\\exercise1\\ex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94A99A60-C3B1-4108-9F7B-938D3EE9E7CF}|exercise1\\exercise1.csproj|solutionrelative:exercise1\\ex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ex4.cs",
+              "DocumentMoniker": "D:\\exercise-csharp\\exercise4\\Ex4.cs",
+              "RelativeDocumentMoniker": "exercise4\\Ex4.cs",
+              "ToolTip": "D:\\exercise-csharp\\exercise4\\Ex4.cs",
+              "RelativeToolTip": "exercise4\\Ex4.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA5wCIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T18:52:29.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ex1.cs",
+              "DocumentMoniker": "D:\\exercise-csharp\\exercise1\\Ex1.cs",
+              "RelativeDocumentMoniker": "exercise1\\Ex1.cs",
+              "ToolTip": "D:\\exercise-csharp\\exercise1\\Ex1.cs",
+              "RelativeToolTip": "exercise1\\Ex1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T18:50:39.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ex5.cs",
+              "DocumentMoniker": "D:\\exercise-csharp\\exercise5\\Ex5.cs",
+              "RelativeDocumentMoniker": "exercise5\\Ex5.cs",
+              "ToolTip": "D:\\exercise-csharp\\exercise5\\Ex5.cs",
+              "RelativeToolTip": "exercise5\\Ex5.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T18:49:55.363Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
